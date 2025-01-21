@@ -299,7 +299,7 @@ TBD
 - Foundation models for navigation
 - Heterogeneous collaborative robots
 - Data collection and generation techniques for off-road environments
-- off-road driving datasets
+- Off-road driving datasets
 - Cross-domain transfer for off-road applications
 - Scene understanding and reconstruction (e.g. but not limited to, NeRF, Neural Representations)
 - Open-set visual recognition methods under constrained conditions (image and video classification, object detection, and segmentation)
