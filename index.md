@@ -277,11 +277,14 @@ We look forward to seeing innovative contributions from the community and to fur
 ## Important Dates
 
 TBD 
-<!-- - Submissions open: Feb 1st 2025
+
+<!-- 
+- Submissions open: Feb 1st 2025
 - Submission deadline: Apr 8th 2025
 - Decision notification: Apr 21th 2025
 - Camera-ready deadline: May 7th 2025
-- Workshop: TBD -->
+- Workshop: TBD 
+-->
 
 
 ## Topics Covered
@@ -335,6 +338,8 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 5:50-6:00 | Closing Remarks.
 
 
- ## Online Participation
+
+
+## Online Participation
 
 All sessions, including invited talks, paper presentations, and panel discussions, will be live-streamed. Recordings will be made available after the event to accommodate participants in different time zones. Moreover, online attendees will have the opportunity to actively engage in live Q&A sessions via Zoom chat.
