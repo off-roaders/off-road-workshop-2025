@@ -122,9 +122,9 @@ TBD
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/speakers/hutter.png" alt="hutter" style="width:100%; border-radius: 50%;">
+    <img src="images/speakers/antonnetchaev.jpeg" alt="anton" style="width:100%; border-radius: 50%;">
     <figcaption>
-        <a href="https://rsl.ethz.ch/the-lab/people/person-detail.html?persid=121911">Marco Hutter</a>
+        <a href="https://www.ise.msstate.edu/people/adjunct-faculty/anton-netchaev/">Anton Netchaev</a>
     </figcaption>
   </div>     
   <div class="column">
@@ -187,13 +187,13 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 11:00-11:30 | Keynote Talk 5: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
 11:30-12:15 | Poster Oral Session A: Spotlight Talks.
 12:15-2:00 | Lunch.
-02:00-2:30 | Keynote Talk 6: TBD (Marco Hutter)
+02:00-2:30 | Keynote Talk 6: TBD (Anton Netchaev)
 2:30-3:00 | Keynote Talk 7: TBD (Byron Boots)
 3:00-3:30 | Poster Oral Session B: Spotlight Talks.
 3:30-4:00 | Coffee break and Poster Session
 4:00-4:30 | Keynote Talk 8: TBD (Wolfram Burgard)
 4:30-5:00 | Keynote Talk 9: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
-5:00-5:50 | Panel Discussion.
+5:00-5:50 | Panel Discussion: Foundation Models and Large Language Models in Off-Road Robotics: Hype or Reality?
 5:50-6:00 | Closing Remarks.
 
 
