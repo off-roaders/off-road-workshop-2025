@@ -185,9 +185,9 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 10:00-10:30 | Coffee break and Poster Session
 10:30-11:00 | Keynote Talk 4: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
 11:00-11:30 | Keynote Talk 5: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
-11:30-12:15 | Poster Oral Session A: Spotlight Talks.
+11:35-12:20 | Poster Oral Session A: Spotlight Talks.
 12:15-2:00 | Lunch.
-02:00-2:30 | Keynote Talk 6: TBD (Anton Netchaev)
+02:00-2:30 | Keynote Talk 6: Off Road Autonomy in Feature Sparse Environments (Anton Netchaev)
 2:30-3:00 | Keynote Talk 7: TBD (Byron Boots)
 3:00-3:30 | Poster Oral Session B: Spotlight Talks.
 3:30-4:00 | Coffee break and Poster Session
