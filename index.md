@@ -67,7 +67,7 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 ## Submission Instructions
 
-- Submissions should follow the [RSS 2025 paper format](https://roboticsconference.org/information/cfp/).
+- Submissions should follow the [RSS 2025 paper format](https://roboticsconference.org/information/cfp/#:~:text=RSS%202025%20has%20no%20page%20length%20requirements%20on%20submissions.%20Traditionally%2C%20RSS%20submissions%20have%20been%208%20pages%20given%20the%20paper%20template%2C%20which%20is%20available%20either%20in%20LaTeX%20or%20Word%20format.).
 - Reviews will be conducted in a double-blind manner; please ensure your paper is properly anonymized.
 - While there is no strict page limit, we recommend a length of 4–8 pages, excluding references and supplementary material.
 - Papers must be submitted via [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/ROAR&referrer=%5BHomepage%5D(%2F)#tab-your-consoles). 
