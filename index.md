@@ -40,7 +40,6 @@ The Resilient Off-road Autonomous Robotics (ROAR) builds on the success of [the 
 
 Beyond canonical topics such as robust navigation in GPS-denied areas and terrain-adaptive control strategies, the workshop will explore cutting-edge advancements. These include multi-modal perception using novel sensor modalities (e.g., radar for robust navigation, thermal cameras for visibility in low-light conditions, and event cameras for high-speed motion detection). Advanced scene representation techniques, such as NeRF for photorealistic scene reconstruction and 3D Gaussian Splatting for efficient map representations, will also be discussed. The workshop will highlight online learning approaches to enable real-time adaptation to dynamic off-road environments and examine how foundation models can contribute to generalizable and scalable off-road autonomy. Additionally, a significant focus will be placed on practical strategies for creating comprehensive datasets and establishing robust benchmarks tailored to off-road environments, emphasizing the importance of large-scale, high-quality data for method development and training.
 
-
 This will be a full-day workshop. It will feature a mix of presentations, open panel discussions, and an invited poster session. The workshop targets academics and researchers in robotics, AI, and machine learning, focusing on autonomous systems for off-road applications. It also engages industry professionals from agriculture, mining, defense, and planetary exploration, along with representatives from organizations like NASA and DARPA.
 
 ## Topics Covered
@@ -68,19 +67,23 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 ## Submission Instructions
 
-Submissions should be short papers up to 4 pages in PDF format (not counting references and an optional appendix, which can go over the limit) This workshop will not provide formal official proceedings and the papers will be available on the workshop website.
+- Submissions should follow the [RSS 2025 paper format](https://roboticsconference.org/information/cfp/).
+- Reviews will be conducted in a double-blind manner; please ensure your paper is properly anonymized.
+- While there is no strict page limit, we recommend a length of 4–8 pages, excluding references and supplementary material.
+- Papers must be submitted via [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/ROAR&referrer=%5BHomepage%5D(%2F)#tab-your-consoles). 
+- Accepted papers will be presented as posters, with a select few invited for spotlight presentations.
 
 ## Important Dates
 
-TBD 
+Submission Start: Apr 01 2025 12:00AM UTC-0
 
-<!-- 
-- Submissions open: Feb 1st 2025
-- Submission deadline: Apr 8th 2025
-- Decision notification: Apr 21th 2025
-- Camera-ready deadline: May 7th 2025
-- Workshop: TBD 
--->
+Submission Deadline: May 01 2025 12:00AM UTC-0
+
+Acceptance Notification: May 16 2025 12:00AM UTC-0
+
+Camera-Ready Deadline: June 01 2025 12:00AM UTC-0
+
+Workshop Date: Jun 25th 2025
 
 ## Speakers and Panelists
 
