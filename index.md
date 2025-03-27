@@ -75,15 +75,11 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 ## Important Dates
 
-Submission Start: Apr 01 2025 12:00AM UTC-0
-
-Submission Deadline: May 01 2025 12:00AM UTC-0
-
-Acceptance Notification: May 16 2025 12:00AM UTC-0
-
-Camera-Ready Deadline: June 01 2025 12:00AM UTC-0
-
-Workshop Date: Jun 25th 2025
+- Submission Start: Apr 01 2025 12:00AM UTC-0
+- Submission Deadline: May 01 2025 12:00AM UTC-0
+- Acceptance Notification: May 16 2025 12:00AM UTC-0
+- Camera-Ready Deadline: June 01 2025 12:00AM UTC-0
+- Workshop Date: Jun 25th 2025
 
 ## Speakers and Panelists
 
