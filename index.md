@@ -1,3 +1,6 @@
+
+<link rel="shortcut icon" type="image/x-icon" href="images/rss2025_logo.png">
+
 ![imagen](images/rss2025_logo.png)
 
 
