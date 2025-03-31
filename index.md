@@ -1,5 +1,9 @@
+<meta property="og:title" content="RSS 2025 Workshop on Resilient Off-road Autonomous Robotics (ROAR)">
+<meta property="og:description" content="Join us at RSS 2025 to explore the latest in resilient off-road autonomy. Submit your paper today!">
+<meta property="og:image" content="images/rss2025_logo.png">
+<meta property="og:url" content="https://off-roaders.github.io/off-road-workshop-2025/">
+<meta property="og:type" content="website">
 
-<link rel="shortcut icon" type="image/x-icon" href="images/rss2025_logo.png">
 
 ![imagen](images/rss2025_logo.png)
 
