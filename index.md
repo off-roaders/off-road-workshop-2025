@@ -83,10 +83,19 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 ## Important Dates
 
 - Submission Start: Apr 01 2025 12:00AM UTC-0
-- Submission Deadline: May 01 2025 12:00AM UTC-0
-- Acceptance Notification: May 16 2025 12:00AM UTC-0
-- Camera-Ready Deadline: June 01 2025 12:00AM UTC-0
+- Submission Deadline: ~~May 01 2025 12:00AM UTC-0~~ May 15 2025 12:00AM UTC-0
+- Acceptance Notification: ~~May 16 2025 12:00AM UTC-0~~ May 29 2025 12:00AM UTC-0
+- Camera-Ready Deadline: ~~June 01 2025 12:00AM UTC-0~~ June 05 2025 12:00AM UTC-0
 - Workshop Date: Jun 25th 2025
+
+## Awards
+
+Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The following prizes will be presented:
+
+- **Best Paper Award** – USD 500  
+- **Best Paper Runner-Up** – USD 250  
+- **Best Poster Award** – USD 500  
+- **Best Poster Runner-Up** – USD 250  
 
 ## Speakers and Panelists
 
