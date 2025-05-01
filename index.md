@@ -83,9 +83,9 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 ## Important Dates
 
 - Submission Start: Apr 01 2025 12:00AM UTC-0
-- Submission Deadline: ~~May 01 2025 12:00AM UTC-0~~ May 15 2025 24:00 AoE
-- Acceptance Notification: ~~May 16 2025 12:00AM UTC-0~~ May 29 2025 24:00 AoE
-- Camera-Ready Deadline: ~~June 01 2025 12:00AM UTC-0~~ June 05 2025 24:00 AoE
+- Submission Deadline: ~~May 01 2025 12:00AM UTC-0~~ May 15 2025 AoE
+- Acceptance Notification: ~~May 16 2025 12:00AM UTC-0~~ May 29 2025 AoE
+- Camera-Ready Deadline: ~~June 01 2025 12:00AM UTC-0~~ June 05 2025 AoE
 - Workshop Date: Jun 25th 2025
 
 ## Awards
