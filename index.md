@@ -18,6 +18,11 @@
   width: 20.00%;
   padding: 5px;
 }
+.row {
+  display: flex;
+  justify-content: center;  centers horizontally */
+  align-items: center;     /* centers vertically if .row has height */
+}
 
 /* Clearfix (clear floats) */
 .row::after {
@@ -30,6 +35,15 @@
   float: left;
   width: 12.50%;
   padding: 3px;
+}
+
+.logocolum {
+  float: left;
+  width: 50%;
+  padding: 20px;
+  border-radius: 10px;
+  background-color:rgb(0, 0, 0);    /* white “pill” behind the logo */          /* inner padding around the img */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);  /* subtle drop shadow */
 }
 
 figcaption {
@@ -130,6 +144,9 @@ Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The followi
         <a href="https://www.darpa.mil/staff/dr-stuart-young">Stuart Young</a>
     </figcaption>
   </div>
+</div>
+
+<div class="row">
   <div class="column">
     <img src="images/speakers/myung.png" alt="myung" style="width:100%; border-radius: 50%;">
     <figcaption>
@@ -157,36 +174,6 @@ Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The followi
     </figcaption>
   </div>  
 </div>
-
-<!-- ## Challenge
-
-Ahead of the event, we are excited to announce a **competitive challenge** centered around a newly developed off-road dataset. This challenge is designed to push the boundaries of innovation in off-road autonomy, featuring cutting-edge tasks such as:
-
-- **Zero-Shot Semantic Segmentation**
-- **Novel View Synthesis for Off-Road Scenes**
-- **Multimodal Off-Road Odometry**
-
-We aim for this challenge to spark practical innovations and establish an objective benchmark for evaluating new methods in off-road robotics. 
-
-### How to Participate
-
-Participants will be tasked with developing novel solutions to these challenges using our newly released dataset, available at the following links:
-
-- [ROAR Challenge Information](http://www.unmannedlab.org/roar_challenge/)
-- [The Great Outdoors Dataset](http://www.unmannedlab.org/the-great-outdoors-dataset/)
-
-### Recognition and Awards
-
-Challenge winners will be invited to present their solutions at the workshop, providing an opportunity to showcase their work to a broader audience and contribute to advancements in off-road robotics.
-
-We look forward to seeing innovative contributions from the community and to furthering the state of the art in off-road autonomy. -->
-
-
-
-
-
-
-
 
 ## Schedule
 
@@ -217,158 +204,6 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 ## Online Participation
 
 All sessions, including invited talks, paper presentations, and panel discussions, will be live-streamed. Recordings will be made available after the event to accommodate participants in different time zones. Moreover, online attendees will have the opportunity to actively engage in live Q&A sessions via Zoom chat.
-
-<!-- ## Organizers
-
-<div class="row">
-  <div class="column">
-    <img src="images/Steering_committee/saripalli.png" alt="saripalli" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://engineering.tamu.edu/mechanical/profiles/saripalli.html">Srikanth Saripalli</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/Steering_committee/basti.png" alt="basti" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://theairlab.org/team/sebastian">Sebastian Scherer</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/wenshan.png" alt="wenshan" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.ri.cmu.edu/ri-faculty/wenshan-wang/">Wenshan Wang</a>
-    </figcaption>
-  </div>    
-  <div class="column">
-    <img src="images/Steering_committee/xuesu_xiao.png" alt="xiao" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://cs.gmu.edu/~xiao/">Xuesu Xiao</a>
-    </figcaption>  
-  </div>
-  <div class="column">
-    <img src="images/Steering_committee/valada.png" alt="valada" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://rl.uni-freiburg.de/people/valada">Abhinav Valada</a>
-    </figcaption>
-  </div>    
-</div>
-<div class="row">
-  <div class="column">
-    <img src="images/Steering_committee/Maggie_Wigness.jpg" alt="Wigness" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/maggie-wigness/">Maggie Wigness</a>
-    </figcaption>
-  </div>  
-  <div class="column">
-    <img src="images/Steering_committee/rogers.jpg" alt="rogers" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/john-rogers-41921a12/">John Rogers</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/Steering_committee/osteen.jpg" alt="osteen" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/phil-osteen-3bb19741/">Philip Osteen</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/Steering_committee/Jason_gregory.jpg" alt="gregory" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/jason-gregory-88b70b167/">Jason Gregory</a>
-    </figcaption>  
-  </div>
-  <div class="column">
-    <img src="images/organizers/Christian_ellis.jpg" alt="christian" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/christian-ellis-research/">Christian Ellis</a>
-    </figcaption>
-  </div>  
-</div>
-
-<div class="row">
-  <div class="column">
-    <img src="images/organizers/peng_jiang.png" alt="peng" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/peng-jiang-8a6926128/">Peng Jiang</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/Gautam.jpg" alt="Gautam" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/alvikagautam">Alvika Gautam</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/Kasi_Viswanath.png" alt="kasi" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/kasi-viswanath-4197851b6/">Kasi Viswanath</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/Akhil.jpg" alt="akhil" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/akhil-nagariya/">Akhil Nagariya</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/sam.png" alt="sam" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://theairlab.org/team/sam_triest/">Samuel Triest</a>
-    </figcaption>  
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <img src="images/organizers/saich.png" alt="saich" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://shubhraaich.github.io/">Shubhra Aich</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/matthew.png" alt="matthew" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://matthewjsiv.github.io/">Matthew Sivaprakasam</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/micah_nye.png" alt="matthew" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://theairlab.org/team/micah_nye/">Micah Nye</a>
-    </figcaption>
-  </div>  
-  <div class="column">
-    <img src="images/organizers/tyler_han.png" alt="tyler" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://thanandnow.github.io/">Tyler Han</a>
-    </figcaption>  
-  </div>
-  <div class="column">
-    <img src="images/organizers/rohan_baijal.png" alt="rohan" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://rohanblueboybaijal.github.io/">Rohan Baijal</a>
-    </figcaption>
-  </div>  
-</div>
-<div class="row">
-  <div class="column">
-    <img src="images/organizers/mateo_castro.png" alt="mateo" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://mateoguaman.com/">Mateo Guaman Castro</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/Ashwin_Menon.jpg" alt="ashwin" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/ashwin-menon-060147149/">Ashwin Menon</a>
-    </figcaption>
-  </div>
-  <div class="column">
-    <img src="images/organizers/Eric_Damm.jpg" alt="eric" style="width:100%; border-radius: 50%;">
-    <figcaption>
-        <a href="https://www.linkedin.com/in/eric-damm-b7a05090/">Eric Damm</a>
-    </figcaption>  
-  </div>
-</div> -->
 
 ## Organizers
 
@@ -519,5 +354,25 @@ All sessions, including invited talks, paper presentations, and panel discussion
     <figcaption>
         <a href="https://www.linkedin.com/in/eric-damm-b7a05090/">Eric Damm</a>
     </figcaption>  
+  </div>
+</div>
+
+## Sponsors
+<!-- <div class="row">
+  <div class="logocolum">
+    <img src="images/sponsors/field-ai-logo-light.png" alt="fieldai" style="width:100%;">
+    <a href="https://www.fieldai.com/">
+    </img>
+  </div>
+</div> -->
+<div class="row">
+  <div class="logocolum">
+    <a href="https://www.fieldai.com/">
+      <img
+        src="images/sponsors/field-ai-logo-light.png"
+        alt="Field AI"
+        style="width:100%; display:block;"
+      >
+    </a>
   </div>
 </div>
