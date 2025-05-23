@@ -187,14 +187,14 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 10:00-10:30 | Keynote Talk 4: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
 10:30-11:00 | Coffee break and Poster Session
 11:00-11:30 | Keynote Talk 5: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
-11:35-12:20 | Poster Oral Session A: Spotlight Talks.
-12:15-2:00 | Lunch.
+11:30-12:00 | Poster Oral Session A: Spotlight Talks.
+12:00-2:00 | Lunch.
 02:00-2:30 | Keynote Talk 6: Off Road Autonomy in Feature Sparse Environments (Anton Netchaev)
 2:30-3:00 | Keynote Talk 7: TBD (Byron Boots)
-3:00-3:30 | Poster Oral Session B: Spotlight Talks.
-3:30-4:00 | Keynote Talk 8: TBD (Wolfram Burgard)
+3:00-3:30 | Keynote Talk 8: TBD (Wolfram Burgard)
+3:30-4:00 | Keynote Talk 9: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
 4:00-4:30 | Coffee break and Poster Session
-4:30-5:00 | Keynote Talk 9: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
+4:30-5:00 | Poster Oral Session B: Spotlight Talks.
 5:00-5:50 | Panel Discussion: Foundation Models and Large Language Models in Off-Road Robotics: Hype or Reality?
 5:50-6:00 | Closing Remarks.
 
