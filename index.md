@@ -180,7 +180,6 @@ Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The followi
 </div>
 
 ## Schedule
-%8:00-8:15 | Poster Setup
 Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 --- | ---
 8:15-8:30 | Opening Remarks
