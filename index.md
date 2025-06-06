@@ -63,6 +63,10 @@ Beyond canonical topics such as robust navigation in GPS-denied areas and terrai
 
 This will be a full-day workshop. It will feature a mix of presentations, open panel discussions, and an invited poster session. The workshop targets academics and researchers in robotics, AI, and machine learning, focusing on autonomous systems for off-road applications. It also engages industry professionals from agriculture, mining, defense, and planetary exploration, along with representatives from organizations like NASA and DARPA.
 
+## 📍 Location
+- [Olin Hall of Engineering (OHE)](https://www.google.com/maps/place/Olin+Hall,+3650+McClintock+Ave,+Los+Angeles,+CA+90089/@34.0206843,-118.2894991,1509m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c7fca3be47df:0x34ec8b40e042d9e3!8m2!3d34.0206843!4d-118.2894991!16s%2Fg%2F11c5nmb8fx?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D) Room 100B
+
+
 ## Topics Covered
 
 - Multi-modal perception
@@ -176,25 +180,24 @@ Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The followi
 </div>
 
 ## Schedule
-
+%8:00-8:15 | Poster Setup
 Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 --- | ---
-8:00-8:15 | Poster Setup
 8:15-8:30 | Opening Remarks
 8:30-9:00 | Keynote Talk 1: Radar Localization for Driving Off the Road (Tim Barfoot)
 9:00-9:30 | Keynote Talk 2: Learning Robust Computer Vision in Unknown Environments (Marija Popović)
-9:30-10:00 | Keynote Talk 3: Future Surface and Aerial Mobility for Mars Exploration (Larry Matthies)
-10:00-10:30 | Keynote Talk 4: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
-10:30-11:00 | Coffee break and Poster Session
-11:00-11:30 | Keynote Talk 5: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
-11:30-12:00 | Poster Oral Session A: Spotlight Talks.
-12:00-2:00 | Lunch.
-02:00-2:30 | Keynote Talk 6: Off Road Autonomy in Feature Sparse Environments (Anton Netchaev)
-2:30-3:00 | Keynote Talk 7: TBD (Byron Boots)
-3:00-3:30 | Keynote Talk 8: TBD (Wolfram Burgard)
-3:30-4:00 | Keynote Talk 9: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
-4:00-4:30 | Coffee break and Poster Session
-4:30-5:00 | Poster Oral Session B: Spotlight Talks.
+9:30-9:45 | Poster Oral Session A: Spotlight Talks.
+9:45-10:30 | Coffee break and Poster Session
+10:30-11:00 | Keynote Talk 3: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
+11:00-11:30| Keynote Talk 4: Future Surface and Aerial Mobility for Mars Exploration (Larry Matthies)
+11:30-12:30| Poster Oral Session B: Spotlight Talks.
+12:30-2:00 | Lunch Break.
+02:00-2:30 | Keynote Talk 5: Off Road Autonomy in Feature Sparse Environments (Anton Netchaev)
+2:30-3:00 | Keynote Talk 6: TBD (Byron Boots)
+3:00-3:30 | Keynote Talk 7: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
+3:30-4:00 | Coffee break and Poster Session
+4:00-4:30 | Keynote Talk 8: TBD (Wolfram Burgard)
+4:30-5:00 | Keynote Talk 9: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
 5:00-5:50 | Panel Discussion: Foundation Models and Large Language Models in Off-Road Robotics: Hype or Reality?
 5:50-6:00 | Closing Remarks.
 
