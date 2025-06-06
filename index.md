@@ -182,23 +182,23 @@ Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The followi
 ## Schedule
 Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 --- | ---
-8:15-8:30 | Opening Remarks
-8:30-9:00 | Keynote Talk 1: Radar Localization for Driving Off the Road (Tim Barfoot)
-9:00-9:30 | Keynote Talk 2: Learning Robust Computer Vision in Unknown Environments (Marija Popović)
-9:30-9:45 | Poster Oral Session A: Spotlight Talks.
-9:45-10:30 | Coffee break and Poster Session
+08:15-08:30 | Opening Remarks
+08:30-09:00 | Keynote Talk 1: Radar Localization for Driving Off the Road (Tim Barfoot)
+09:00-09:30 | Keynote Talk 2: Learning Robust Computer Vision in Unknown Environments (Marija Popović)
+09:30-09:45 | Poster Oral Session A: Spotlight Talks.
+09:45-10:30 | Coffee break and Poster Session
 10:30-11:00 | Keynote Talk 3: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
 11:00-11:30| Keynote Talk 4: Future Surface and Aerial Mobility for Mars Exploration (Larry Matthies)
 11:30-12:30| Poster Oral Session B: Spotlight Talks.
-12:30-2:00 | Lunch Break.
-02:00-2:30 | Keynote Talk 5: Off Road Autonomy in Feature Sparse Environments (Anton Netchaev)
-2:30-3:00 | Keynote Talk 6: TBD (Byron Boots)
-3:00-3:30 | Keynote Talk 7: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
-3:30-4:00 | Coffee break and Poster Session
-4:00-4:30 | Keynote Talk 8: TBD (Wolfram Burgard)
-4:30-5:00 | Keynote Talk 9: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
-5:00-5:50 | Panel Discussion: Foundation Models and Large Language Models in Off-Road Robotics: Hype or Reality?
-5:50-6:00 | Closing Remarks.
+12:30-14:00 | Lunch Break.
+14:00-14:30 | Keynote Talk 5: Off Road Autonomy in Feature Sparse Environments (Anton Netchaev)
+14:30-15:00 | Keynote Talk 6: TBD (Byron Boots)
+15:00-15:30 | Keynote Talk 7: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
+15:30-16:00 | Coffee break and Poster Session
+16:00-16:30 | Keynote Talk 8: TBD (Wolfram Burgard)
+16:30-17:00 | Keynote Talk 9: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
+17:00-17:50 | Panel Discussion: Foundation Models and Large Language Models in Off-Road Robotics: Hype or Reality?
+17:50-18:00 | Closing Remarks.
 
 
 
