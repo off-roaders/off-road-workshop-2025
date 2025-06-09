@@ -180,6 +180,7 @@ Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The followi
 </div>
 
 ## Schedule
+
 Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 --- | ---
 08:15-08:30 | Opening Remarks
