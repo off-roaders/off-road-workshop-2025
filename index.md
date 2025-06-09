@@ -189,8 +189,8 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 09:30-09:45 | Poster Oral Session A: Spotlight Talks.
 09:45-10:30 | Coffee break and Poster Session
 10:30-11:00 | Keynote Talk 3: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
-11:00-11:30| Keynote Talk 4: Future Surface and Aerial Mobility for Mars Exploration (Larry Matthies)
-11:30-12:30| Poster Oral Session B: Spotlight Talks.
+11:00-11:30 | Keynote Talk 4: Future Surface and Aerial Mobility for Mars Exploration (Larry Matthies)
+11:30-12:30 | Poster Oral Session B: Spotlight Talks.
 12:30-14:00 | Lunch Break.
 14:00-14:30 | Keynote Talk 5: Off Road Autonomy in Feature Sparse Environments (Anton Netchaev)
 14:30-15:00 | Keynote Talk 6: TBD (Byron Boots)
