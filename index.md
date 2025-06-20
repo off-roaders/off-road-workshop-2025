@@ -63,8 +63,19 @@ Beyond canonical topics such as robust navigation in GPS-denied areas and terrai
 
 This will be a full-day workshop. It will feature a mix of presentations, open panel discussions, and an invited poster session. The workshop targets academics and researchers in robotics, AI, and machine learning, focusing on autonomous systems for off-road applications. It also engages industry professionals from agriculture, mining, defense, and planetary exploration, along with representatives from organizations like NASA and DARPA.
 
+## 📢 Updates!
+- 🔗 Online Access: Join the workshop via [Zoom Link](https://tamu.zoom.us/j/94768793003?pwd=XvqQNfkJcDiBeR4DHlF7WalvfEjRWe.1
+)/[Zoom Invitation](info/RSS2025_ROAR_Zoom_Invitation.txt)
+
+- 🗓️ Poster Schedule Released: Please check the schedule [here](info/RSS2025_ROAR_Poster_Schedules.pdf)
+
+- 📄 Accepted Papers: All accepted papers are now available on [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/ROAR&referrer=%5BHomepage%5D(%2F)#tab-accept-oral)
+
+
 ## 📍 Location
-- [Olin Hall of Engineering (OHE)](https://www.google.com/maps/place/Olin+Hall,+3650+McClintock+Ave,+Los+Angeles,+CA+90089/@34.0206843,-118.2894991,1509m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c7fca3be47df:0x34ec8b40e042d9e3!8m2!3d34.0206843!4d-118.2894991!16s%2Fg%2F11c5nmb8fx?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D) Room 100B
+- **Workshop Location**: [Olin Hall of Engineering (OHE)](https://www.google.com/maps/place/Olin+Hall,+3650+McClintock+Ave,+Los+Angeles,+CA+90089/@34.0206843,-118.2894991,1509m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c7fca3be47df:0x34ec8b40e042d9e3!8m2!3d34.0206843!4d-118.2894991!16s%2Fg%2F11c5nmb8fx?entry=ttu&g_ep=EgoyMDI1MDYwMy4wIKXMDSoASAFQAw%3D%3D) Room 100B
+
+- **Poster Location**: [Epstein Family Plaza](https://www.google.com/maps/place/Epstein+Family+Plaza/@34.0203999,-118.2889305,751m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c7fca3f9c71b:0xf96e16d9646c062b!8m2!3d34.0203999!4d-118.2889305!16s%2Fg%2F1tcw3wzp?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D)
 
 
 ## Topics Covered
@@ -100,7 +111,7 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 ## Important Dates
 
-- Submission Start: Apr 01 2025 12:00AM UTC-0
+- Submission Start: ~~Apr 01 2025 12:00AM UTC-0~~
 - Submission Deadline: ~~May 01 2025 12:00AM UTC-0~~ May 15 2025 AoE
 - Acceptance Notification: ~~May 16 2025 12:00AM UTC-0~~ May 29 2025 AoE
 - Camera-Ready Deadline: ~~June 01 2025 12:00AM UTC-0~~ June 05 2025 AoE
@@ -131,9 +142,9 @@ Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The followi
     </figcaption>
   </div>
   <div class="column">
-    <img src="images/speakers/matthies.png" alt="matthies" style="width:100%; border-radius: 50%;">
+    <img src="images/speakers/Masahiro_Ono.jpg" alt="matthies" style="width:100%; border-radius: 50%;">
     <figcaption>
-        <a href="https://robotics.jpl.nasa.gov/who-we-are/people/larry_matthies/">Larry Matthies</a>
+        <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/masahiro_ono/">Masahiro (Hiro) Ono</a>
     </figcaption>
   </div>  
   <div class="column">
@@ -171,9 +182,9 @@ Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The followi
     </figcaption>
   </div>    
   <div class="column">
-    <img src="images/speakers/wolfram_burgard.png" alt="burgard" style="width:100%; border-radius: 50%;">
+    <img src="images/speakers/joydeepb.jpg" alt="burgard" style="width:100%; border-radius: 50%;">
     <figcaption>
-        <a href="http://www2.informatik.uni-freiburg.de/~burgard/">Wolfram Burgard
+        <a href="https://www.joydeepb.com/">Joydeep Biswas
 </a>
     </figcaption>
   </div>  
@@ -189,20 +200,17 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 09:30-09:45 | Poster Oral Session A: Spotlight Talks.
 09:45-10:30 | Coffee break and Poster Session
 10:30-11:00 | Keynote Talk 3: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
-11:00-11:30 | Keynote Talk 4: Future Surface and Aerial Mobility for Mars Exploration (Larry Matthies)
+11:00-11:30 | Keynote Talk 4: Future Surface and Aerial Mobility for Mars Exploration (Masahiro (Hiro) Ono)
 11:30-12:30 | Poster Oral Session B: Spotlight Talks.
 12:30-14:00 | Lunch Break.
 14:00-14:30 | Keynote Talk 5: Off Road Autonomy in Feature Sparse Environments (Anton Netchaev)
 14:30-15:00 | Keynote Talk 6: TBD (Byron Boots)
-15:00-15:30 | Keynote Talk 7: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
+15:00-15:30 | Keynote Talk 7: Reading the Dirt: Learning What Matters (and What Doesn’t) for Off-Road Navigation (Joydeep Biswas)
 15:30-16:00 | Coffee break and Poster Session
-16:00-16:30 | Keynote Talk 8: TBD (Wolfram Burgard)
+16:00-16:30 | Keynote Talk 8: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
 16:30-17:00 | Keynote Talk 9: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
 17:00-17:50 | Panel Discussion: Foundation Models and Large Language Models in Off-Road Robotics: Hype or Reality?
 17:50-18:00 | Closing Remarks.
-
-
-
 
 ## Online Participation
 
