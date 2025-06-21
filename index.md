@@ -266,55 +266,46 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 ---
 
 **Traverse the Non-Traversable: Estimating Traversability for Wheeled Mobility on Vertically Challenging Terrain**
-
 *Aniket Datar, Chenhui Pan, Anuj Pokhrel, Matthew Choulas, Mohammad Nazeri, Tong Xu, Xuesu Xiao*
 
 ---
 
 **M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**
-
 *Aniket Datar, Anuj Pokhrel, Mohammad Nazeri, Madhan B. Rao, Harsh Rangwala, Chenhui Pan, Yufan Zhang, Andre Harrison, Maggie Wigness, Philip R Osteen, Jinwei Ye, Xuesu Xiao*
 
 ---
 
 **Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**
-
 *Jason Gibson, Anoushka Alavilli, Erica Tevere, Evangelos Theodorou, Patrick Spieler*
 
 ---
 
 **ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**
-
 *Youwei Yu, Junhong Xu, Lantao Liu*
 
 ---
 
 **LunarLoc: Segment-Based Global Localization on the Moon**
-
 *Annika Thomas, Robaire Galliath, Aleksander T Garbuz, Luke R Anger, Cormac ONeill, Trevor E Johst, Dami V Thomas, George Lordos, Jonathan P How*
 
 ---
 
 **MAGIC-VFM: Meta-Learning Adaptation for Ground Interaction Control with Visual Foundation Models**
-
 *Elena Sorina Lupu, Fengze Xie, James A Preiss, Jedidiah Alindogan, Matthew Anderson, Soon-Jo Chung*
 
 ---
 
 **Wheeled Lab: Modern Sim2Real for Low-Cost, Open-Source Wheeled Robotics**
-
 *Tyler Han, Preet Shah, Sidharth Rajagopal, Yanda Bao, Sanghun Jung, Sidharth Talia, Gabriel Guo, Bryan Xu, Bhaumik Mehta, Emma Romig, Rosario Scalise, Byron Boots*
 
 ---
 
 **BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization**
-
 *Dongmyeong Lee, Jesse Quattrociocchi, Christian Ellis, Rwik Rana, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas*
 
 ---
 
 **Learning Smooth State-Dependent Traversability from Dense Point Clouds**
-
 *Zihao Dong, Alan Papalia, Leonard Jung, Alenna Spiro, Philip R Osteen, Christa S. Robison, Michael Everett*
 
 
