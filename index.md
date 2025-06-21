@@ -218,46 +218,46 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 ## Poster Sessions
 ### Session A - 9:30-10:20 AM (Epstein Plaza)
 ---
-#### **Long Range Navigator (LRN): Extending Robot Planning Horizons Beyond Metric Maps**
+**Long Range Navigator (LRN): Extending Robot Planning Horizons Beyond Metric Maps**
 *Matt Schmittle, Rohan Baijal, Nathan Hatch, Rosario Scalise, Mateo Guaman Castro, Sidharth Talia, Khimya Khetarpal, Byron Boots, Siddhartha Srinivasa*
 
 ---
 
-#### **Kinodynamic Motion Planning for Mobile Robot Navigation Across Inconsistent World Models**
+**Kinodynamic Motion Planning for Mobile Robot Navigation Across Inconsistent World Models**
 *Eric R. Damm, Thomas Howard*
 
 ---
 
-#### **Online Adaptation of Terrain-Aware Dynamics for Planning in Unstructured Environments**
+**Online Adaptation of Terrain-Aware Dynamics for Planning in Unstructured Environments**
 *William Ward, Sarah Etter, Tyler Ingebrand, Christian Ellis, Adam Thorpe, Ufuk Topcu*
 
 ---
 
-#### **OVerSeeC – Open-Vocabulary CostMap Generation from Satellite Images and Natural Language**
+**OVerSeeC – Open-Vocabulary CostMap Generation from Satellite Images and Natural Language**
 *Rwik Rana, Jesse Quattrociocchi, Dongmyeong Lee, Christian Ellis, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas*
 
 ---
 
-#### **Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**
+**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**
 *Jacob Levy, Jason Gibson, Bogdan Vlahov, Erica Tevere, Evangelos Theodorou, David Fridovich-Keil, Patrick Spieler*
 
 ---
 
-#### **GND: An Outdoor Global Navigation Dataset with Multi-Modal Perception and Traversability**
+**GND: An Outdoor Global Navigation Dataset with Multi-Modal Perception and Traversability**
 *Jing Liang, Dibyendu Das, Daeun Song, MD Nahid Hasan Shuvo, Sina Mansouri, Dinesh Manocha, Xuesu Xiao*
 
 ---
 
-#### **Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain**
+**Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain**
 *Tong Xu, Chenhui Pan, Madhan B. Rao, Aniket Datar, Anuj Pokhrel, Yuanjie Lu, Xuesu Xiao*
 
 ---
 
-#### **VertiSelector: Automatic Curriculum Learning for Wheeled Mobility on Vertically Challenging Terrain**
+**VertiSelector: Automatic Curriculum Learning for Wheeled Mobility on Vertically Challenging Terrain**
 *Tong Xu, Chenhui Pan, Xuesu Xiao*
 
 ---
-#### **Learning to Predict Mobile Robot Stability in Off-Road Environments**
+**Learning to Predict Mobile Robot Stability in Off-Road Environments**
 *Nathaniel Rose, Arif Ahmed, Emanuel Gutierrez-Cornejo, Parikshit Maini*
 
 ---
@@ -265,47 +265,47 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 
 ---
 
-#### **Traverse the Non-Traversable: Estimating Traversability for Wheeled Mobility on Vertically Challenging Terrain**
+**Traverse the Non-Traversable: Estimating Traversability for Wheeled Mobility on Vertically Challenging Terrain**
 *Aniket Datar, Chenhui Pan, Anuj Pokhrel, Matthew Choulas, Mohammad Nazeri, Tong Xu, Xuesu Xiao*
 
 ---
 
-#### **M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**
+**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**
 *Aniket Datar, Anuj Pokhrel, Mohammad Nazeri, Madhan B. Rao, Harsh Rangwala, Chenhui Pan, Yufan Zhang, Andre Harrison, Maggie Wigness, Philip R Osteen, Jinwei Ye, Xuesu Xiao*
 
 ---
 
-#### **Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**
+**Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**
 *Jason Gibson, Anoushka Alavilli, Erica Tevere, Evangelos Theodorou, Patrick Spieler*
 
 ---
 
-#### **ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**
+**ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**
 *Youwei Yu, Junhong Xu, Lantao Liu*
 
 ---
 
-#### **LunarLoc: Segment-Based Global Localization on the Moon**
+**LunarLoc: Segment-Based Global Localization on the Moon**
 *Annika Thomas, Robaire Galliath, Aleksander T Garbuz, Luke R Anger, Cormac ONeill, Trevor E Johst, Dami V Thomas, George Lordos, Jonathan P How*
 
 ---
 
-#### **MAGIC-VFM: Meta-Learning Adaptation for Ground Interaction Control with Visual Foundation Models**
+**MAGIC-VFM: Meta-Learning Adaptation for Ground Interaction Control with Visual Foundation Models**
 *Elena Sorina Lupu, Fengze Xie, James A Preiss, Jedidiah Alindogan, Matthew Anderson, Soon-Jo Chung*
 
 ---
 
-#### **Wheeled Lab: Modern Sim2Real for Low-Cost, Open-Source Wheeled Robotics**
+**Wheeled Lab: Modern Sim2Real for Low-Cost, Open-Source Wheeled Robotics**
 *Tyler Han, Preet Shah, Sidharth Rajagopal, Yanda Bao, Sanghun Jung, Sidharth Talia, Gabriel Guo, Bryan Xu, Bhaumik Mehta, Emma Romig, Rosario Scalise, Byron Boots*
 
 ---
 
-#### **BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization**
+**BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization**
 *Dongmyeong Lee, Jesse Quattrociocchi, Christian Ellis, Rwik Rana, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas*
 
 ---
 
-#### **Learning Smooth State-Dependent Traversability from Dense Point Clouds**
+**Learning Smooth State-Dependent Traversability from Dense Point Clouds**
 *Zihao Dong, Alan Papalia, Leonard Jung, Alenna Spiro, Philip R Osteen, Christa S. Robison, Michael Everett*
 
 
