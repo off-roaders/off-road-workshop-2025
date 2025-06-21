@@ -197,11 +197,14 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 08:15-08:30 | Opening Remarks
 08:30-09:00 | Keynote Talk 1: Radar Localization for Driving Off the Road (Tim Barfoot)
 09:00-09:30 | Keynote Talk 2: Learning Robust Computer Vision in Unknown Environments (Marija Popović)
-09:30-09:45 | Poster Oral Session A: Spotlight Talks.
+09:30-09:45 | Oral Presentation 1: Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving
 09:45-10:30 | Coffee break and Poster Session
 10:30-11:00 | Keynote Talk 3: Robot Navigation in Complex Indoor and Outdoor Environment (Dinesh Manocha)
 11:00-11:30 | Keynote Talk 4: Future Surface and Aerial Mobility for Mars Exploration (Masahiro (Hiro) Ono)
-11:30-12:30 | Poster Oral Session B: Spotlight Talks.
+11:30-11:45 | Oral Presentation 2: OVerSeeC – Open-Vocabulary CostMap Generation from Satellite Images and Natural Language
+11:45-12:00 | Oral Presentation 3: Online Adaptation of Terrain-Aware Dynamics for Planning in Unstructured Environments
+12:00-12:15 | Oral Presentation 4: 	Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models
+12:15-12:30 | Oral Presentation 5: 	Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps
 12:30-14:00 | Lunch Break.
 14:00-14:30 | Keynote Talk 5: Off Road Autonomy in Feature Sparse Environments (Anton Netchaev)
 14:30-15:00 | Keynote Talk 6: TBD (Byron Boots)
@@ -211,6 +214,103 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 16:30-17:00 | Keynote Talk 9: Robotic Autonomy in Complex Environments with Resiliency (Stuart Young)
 17:00-17:50 | Panel Discussion: Foundation Models and Large Language Models in Off-Road Robotics: Hype or Reality?
 17:50-18:00 | Closing Remarks.
+
+## Poster Sessions
+### Session A - 9:30-10:20 AM (Epstein Plaza)
+---
+#### **Long Range Navigator (LRN): Extending Robot Planning Horizons Beyond Metric Maps**
+*Matt Schmittle, Rohan Baijal, Nathan Hatch, Rosario Scalise, Mateo Guaman Castro, Sidharth Talia, Khimya Khetarpal, Byron Boots, Siddhartha Srinivasa*
+
+---
+
+#### **Kinodynamic Motion Planning for Mobile Robot Navigation Across Inconsistent World Models**
+*Eric R. Damm, Thomas Howard*
+
+---
+
+#### **Online Adaptation of Terrain-Aware Dynamics for Planning in Unstructured Environments**
+*William Ward, Sarah Etter, Tyler Ingebrand, Christian Ellis, Adam Thorpe, Ufuk Topcu*
+
+---
+
+#### **OVerSeeC – Open-Vocabulary CostMap Generation from Satellite Images and Natural Language**
+*Rwik Rana, Jesse Quattrociocchi, Dongmyeong Lee, Christian Ellis, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas*
+
+---
+
+#### **Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**
+*Jacob Levy, Jason Gibson, Bogdan Vlahov, Erica Tevere, Evangelos Theodorou, David Fridovich-Keil, Patrick Spieler*
+
+---
+
+#### **GND: An Outdoor Global Navigation Dataset with Multi-Modal Perception and Traversability**
+*Jing Liang, Dibyendu Das, Daeun Song, MD Nahid Hasan Shuvo, Sina Mansouri, Dinesh Manocha, Xuesu Xiao*
+
+---
+
+#### **Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain**
+*Tong Xu, Chenhui Pan, Madhan B. Rao, Aniket Datar, Anuj Pokhrel, Yuanjie Lu, Xuesu Xiao*
+
+---
+
+#### **VertiSelector: Automatic Curriculum Learning for Wheeled Mobility on Vertically Challenging Terrain**
+*Tong Xu, Chenhui Pan, Xuesu Xiao*
+
+---
+#### **Learning to Predict Mobile Robot Stability in Off-Road Environments**
+*Nathaniel Rose, Arif Ahmed, Emanuel Gutierrez-Cornejo, Parikshit Maini*
+
+---
+### Session C 3:00-3:50 PM (Epstein Plaza)
+
+---
+
+#### **Traverse the Non-Traversable: Estimating Traversability for Wheeled Mobility on Vertically Challenging Terrain**
+*Aniket Datar, Chenhui Pan, Anuj Pokhrel, Matthew Choulas, Mohammad Nazeri, Tong Xu, Xuesu Xiao*
+
+---
+
+#### **M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**
+*Aniket Datar, Anuj Pokhrel, Mohammad Nazeri, Madhan B. Rao, Harsh Rangwala, Chenhui Pan, Yufan Zhang, Andre Harrison, Maggie Wigness, Philip R Osteen, Jinwei Ye, Xuesu Xiao*
+
+---
+
+#### **Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**
+*Jason Gibson, Anoushka Alavilli, Erica Tevere, Evangelos Theodorou, Patrick Spieler*
+
+---
+
+#### **ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**
+*Youwei Yu, Junhong Xu, Lantao Liu*
+
+---
+
+#### **LunarLoc: Segment-Based Global Localization on the Moon**
+*Annika Thomas, Robaire Galliath, Aleksander T Garbuz, Luke R Anger, Cormac ONeill, Trevor E Johst, Dami V Thomas, George Lordos, Jonathan P How*
+
+---
+
+#### **MAGIC-VFM: Meta-Learning Adaptation for Ground Interaction Control with Visual Foundation Models**
+*Elena Sorina Lupu, Fengze Xie, James A Preiss, Jedidiah Alindogan, Matthew Anderson, Soon-Jo Chung*
+
+---
+
+#### **Wheeled Lab: Modern Sim2Real for Low-Cost, Open-Source Wheeled Robotics**
+*Tyler Han, Preet Shah, Sidharth Rajagopal, Yanda Bao, Sanghun Jung, Sidharth Talia, Gabriel Guo, Bryan Xu, Bhaumik Mehta, Emma Romig, Rosario Scalise, Byron Boots*
+
+---
+
+#### **BEV-Patch-PF: Particle Filtering with BEV-Aerial Feature Matching for Off-Road Geo-Localization**
+*Dongmyeong Lee, Jesse Quattrociocchi, Christian Ellis, Rwik Rana, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas*
+
+---
+
+#### **Learning Smooth State-Dependent Traversability from Dense Point Clouds**
+*Zihao Dong, Alan Papalia, Leonard Jung, Alenna Spiro, Philip R Osteen, Christa S. Robison, Michael Everett*
+
+
+
+
 
 ## Online Participation
 
