@@ -217,8 +217,9 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 *Tong Xu, Chenhui Pan, Xuesu Xiao*
 
 ---
-**Learning to Predict Mobile Robot Stability in Off-Road Environments**
-*Nathaniel Rose, Arif Ahmed, Emanuel Gutierrez-Cornejo, Parikshit Maini*
+
+**Learning Smooth State-Dependent Traversability from Dense Point Clouds**
+*Zihao Dong, Alan Papalia, Leonard Jung, Alenna Spiro, Philip R Osteen, Christa S. Robison, Michael Everett*
 
 ---
 ### Session C 3:00-3:50 PM (Epstein Plaza)
@@ -264,9 +265,8 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 *Dongmyeong Lee, Jesse Quattrociocchi, Christian Ellis, Rwik Rana, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas*
 
 ---
-
-**Learning Smooth State-Dependent Traversability from Dense Point Clouds**
-*Zihao Dong, Alan Papalia, Leonard Jung, Alenna Spiro, Philip R Osteen, Christa S. Robison, Michael Everett*
+**Learning to Predict Mobile Robot Stability in Off-Road Environments**
+*Nathaniel Rose, Arif Ahmed, Emanuel Gutierrez-Cornejo, Parikshit Maini*
 
 
 ## Topics Covered
