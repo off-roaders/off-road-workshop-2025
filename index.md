@@ -77,46 +77,6 @@ This will be a full-day workshop. It will feature a mix of presentations, open p
 
 - **Poster Location**: [Epstein Family Plaza](https://www.google.com/maps/place/Epstein+Family+Plaza/@34.0203999,-118.2889305,751m/data=!3m2!1e3!4b1!4m6!3m5!1s0x80c2c7fca3f9c71b:0xf96e16d9646c062b!8m2!3d34.0203999!4d-118.2889305!16s%2Fg%2F1tcw3wzp?entry=ttu&g_ep=EgoyMDI1MDYxNi4wIKXMDSoASAFQAw%3D%3D)
 
-
-## Topics Covered
-
-- Multi-modal perception
-- Self-supervised learning
-- Sim-to-real transfer
-- Sensor fusion techniques (modalities such as radar, thermal, and event camera).
-- Learning-based methods for off-road navigation
-- Online adaptation
-- Traversability estimation
-- Foundation models for navigation
-- Heterogeneous collaborative robots
-- Data collection and generation techniques for off-road environments
-- Off-road driving datasets
-- Cross-domain transfer for off-road applications
-- Scene understanding and reconstruction (e.g. but not limited to, NeRF, Neural Representations)
-- Open-set visual recognition methods under constrained conditions (image and video classification, object detection, and segmentation)
-- Safe robot operation in uncertain and dynamic environments
-- Planning without prior knowledge of an environment
-- Approaches to off-road driving that work on multiple types of robots
-- Long-term localization and mapping in complex/GPS-denied environments
-- Representations of terrain that model physical properties and robot-environment interaction
-
-
-## Submission Instructions
-
-- Submissions should follow the [RSS 2025 paper format](https://roboticsconference.org/information/cfp/#:~:text=RSS%202025%20has%20no%20page%20length%20requirements%20on%20submissions.%20Traditionally%2C%20RSS%20submissions%20have%20been%208%20pages%20given%20the%20paper%20template%2C%20which%20is%20available%20either%20in%20LaTeX%20or%20Word%20format.).
-- Reviews will be conducted in a double-blind manner; please ensure your paper is properly anonymized.
-- While there is no strict page limit, we recommend a length of 4–8 pages, excluding references and supplementary material.
-- Papers must be submitted via [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/ROAR&referrer=%5BHomepage%5D(%2F)#tab-your-consoles). 
-- Accepted papers will be presented as posters, with a select few invited for spotlight presentations.
-
-## Important Dates
-
-- Submission Start: ~~Apr 01 2025 12:00AM UTC-0~~
-- Submission Deadline: ~~May 01 2025 12:00AM UTC-0~~ May 15 2025 AoE
-- Acceptance Notification: ~~May 16 2025 12:00AM UTC-0~~ May 29 2025 AoE
-- Camera-Ready Deadline: ~~June 01 2025 12:00AM UTC-0~~ June 05 2025 AoE
-- Workshop Date: Jun 25th 2025
-
 ## Awards
 
 Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The following prizes will be presented:
@@ -309,6 +269,44 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 *Zihao Dong, Alan Papalia, Leonard Jung, Alenna Spiro, Philip R Osteen, Christa S. Robison, Michael Everett*
 
 
+## Topics Covered
+
+- Multi-modal perception
+- Self-supervised learning
+- Sim-to-real transfer
+- Sensor fusion techniques (modalities such as radar, thermal, and event camera).
+- Learning-based methods for off-road navigation
+- Online adaptation
+- Traversability estimation
+- Foundation models for navigation
+- Heterogeneous collaborative robots
+- Data collection and generation techniques for off-road environments
+- Off-road driving datasets
+- Cross-domain transfer for off-road applications
+- Scene understanding and reconstruction (e.g. but not limited to, NeRF, Neural Representations)
+- Open-set visual recognition methods under constrained conditions (image and video classification, object detection, and segmentation)
+- Safe robot operation in uncertain and dynamic environments
+- Planning without prior knowledge of an environment
+- Approaches to off-road driving that work on multiple types of robots
+- Long-term localization and mapping in complex/GPS-denied environments
+- Representations of terrain that model physical properties and robot-environment interaction
+
+
+## Submission Instructions
+
+- Submissions should follow the [RSS 2025 paper format](https://roboticsconference.org/information/cfp/#:~:text=RSS%202025%20has%20no%20page%20length%20requirements%20on%20submissions.%20Traditionally%2C%20RSS%20submissions%20have%20been%208%20pages%20given%20the%20paper%20template%2C%20which%20is%20available%20either%20in%20LaTeX%20or%20Word%20format.).
+- Reviews will be conducted in a double-blind manner; please ensure your paper is properly anonymized.
+- While there is no strict page limit, we recommend a length of 4–8 pages, excluding references and supplementary material.
+- Papers must be submitted via [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/ROAR&referrer=%5BHomepage%5D(%2F)#tab-your-consoles). 
+- Accepted papers will be presented as posters, with a select few invited for spotlight presentations.
+
+## Important Dates
+
+- Submission Start: ~~Apr 01 2025 12:00AM UTC-0~~
+- Submission Deadline: ~~May 01 2025 12:00AM UTC-0~~ May 15 2025 AoE
+- Acceptance Notification: ~~May 16 2025 12:00AM UTC-0~~ May 29 2025 AoE
+- Camera-Ready Deadline: ~~June 01 2025 12:00AM UTC-0~~ June 05 2025 AoE
+- Workshop Date: Jun 25th 2025
 
 
 
