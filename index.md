@@ -167,7 +167,7 @@ Time  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Session
 12:15-12:30 | Oral Presentation 5: 	Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps
 12:30-14:00 | Lunch Break.
 14:00-14:30 | Keynote Talk 5: Off Road Autonomy in Feature Sparse Environments (Anton Netchaev)
-14:30-15:00 | Keynote Talk 6: TBD (Byron Boots)
+14:30-15:00 | Keynote Talk 6: Thoughts on Machine Learning and Off-Road Ground Vehicle Autonomy (Byron Boots)
 15:00-15:30 | Keynote Talk 7: Reading the Dirt: Learning What Matters (and What Doesn’t) for Off-Road Navigation (Joydeep Biswas)
 15:30-16:00 | Coffee break and Poster Session
 16:00-16:30 | Keynote Talk 8: Spatial AI and ML for Autonomous Robot Navigation in Rough Terrains (Hyun Myung)
