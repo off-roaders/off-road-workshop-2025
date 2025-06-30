@@ -86,6 +86,34 @@ Thank you for the sponsor from [Field AI](https://www.fieldai.com/). The followi
 - **Best Poster Award** – USD 500  
 - **Best Poster Runner-Up** – USD 250  
 
+🎖️ Congratulations to our award winners, made possible by the generous support of Field AI:
+---
+### 🏆 Best Paper
+
+**[Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps](https://openreview.net/forum?id=JbwHcSg2ZF)**
+Matt Schmittle, Rohan Baijal , Nathan Hatch , Rosario Scalise , Mateo Guaman Castro , Sidharth Talia , Khimya Khetarpal, Byron Boots , Siddhartha Srinivasa
+
+----
+
+### 🥈 Best Paper Runner-up
+
+**[OVERSEEC – Open-Vocabulary Cost Map Generation from Satellite Images and Natural Language](https://openreview.net/forum?id=H6jEME4PpM)**
+
+Rwik Rana, Jesse Quattrociocchi, Dongmyeong Lee, Christian Ellis, Amanda Adkins, Adam Uccello, Garrett Warnell, Joydeep Biswas
+
+----
+### 🖼️ Best Poster
+**[Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving](https://openreview.net/forum?id=jnKYdHfFWA)**
+
+Jacob Levy, Jason Gibson, Bogdan Vlahov, Erica Tevere, Evangelos Theodorou, David Fridovich-Keil, Patrick Spieler
+
+----
+### 🥈 Best Poster Runner-up
+**[MAGIC-VFM - Meta-learning Adaptation for Ground Interaction Control with Visual Foundation Models](https://openreview.net/forum?id=xg7kLAXqwo)**
+
+Elena Sorina Lupu, Fengze Xie, James A Preiss, Jedidiah Alindogan, Matthew Anderson, Soon-Jo Chung
+
+
 ## Speakers and Panelists
 
 <div class="row">
